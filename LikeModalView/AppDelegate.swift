@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  LikeModalView
 //
-//  Created by Mika Yamamoto on 2015/07/13.
+//  Created by PGMY on 2015/07/13.
 //  Copyright (c) 2015年 PGMY. All rights reserved.
 //
 

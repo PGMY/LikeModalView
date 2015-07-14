@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  LikeModalView
 //
-//  Created by Mika Yamamoto on 2015/07/13.
+//  Created by PGMY on 2015/07/13.
 //  Copyright (c) 2015年 PGMY. All rights reserved.
 //
 
@@ -26,7 +26,7 @@ class ViewController: UIViewController,UITableViewDataSource,UITableViewDelegate
         
         modalView = BaseModalView(frame: self.view.frame)
         self.view.addSubview(modalView!)
-        self.view.bringSubviewToFront(modalView!)
+//        self.view.bringSubviewToFront(modalView!)
     }
 
     override func didReceiveMemoryWarning() {
